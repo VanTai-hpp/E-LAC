@@ -1,0 +1,6 @@
+{
+  "name": "Ứng dụng Khảo sát Đa năng",
+  "description": "Hệ thống Web Application khảo sát đa mục đích thiết kế dành cho giáo viên, cựu sinh viên và ý kiến doanh nghiệp với công cụ quản trị Admin Dashboard và User Form.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
